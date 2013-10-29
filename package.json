@@ -17,6 +17,11 @@
     "maintainers": [
         "Ivan Kravchenko <i@se7ensky.com> (http://github.com/krava)"
     ],
+    "homepage": "https://github.com/Se7enSky/docpad-plugin-bem",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Se7enSky/docpad-plugin-bem.git"
+    },
     "engines" : {
         "node": ">=0.8"
     },
