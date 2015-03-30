@@ -1,6 +1,6 @@
 {
     "name": "docpad-plugin-data",
-    "version": "2.0.0",
+    "version": "2.0.1",
     "description": "DocPad plugin for simple data files. Project is in incubating status.",
     "keywords": [
         "docpad",
